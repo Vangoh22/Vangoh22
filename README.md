@@ -45,7 +45,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![PHP](https://img.shields.io/badge/PHP%20-%23563D7C.svg?style=for-the-badge&logo=PHP&logoColor=black)
+   ![PHP](https://img.shields.io/badge/PHP%20-%2356307C.svg?style=for-the-badge&logo=PHP&logoColor=black)
 
 
 <!-- 
